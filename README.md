@@ -40,10 +40,10 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 ```text
 tic-tac-toe/
 │
+├── README.md
 ├── index.html
 ├── style.css
-├── script.js
-└── README.md
+└── test.js
 ```
 
 ---
@@ -56,12 +56,6 @@ This project helped in understanding:
 * DOM manipulation
 * Event handling
 * Basic UI/UX design principles
-
----
-
-## 📌 Future Enhancements
-
-* Two-player mode
 
 ---
 
